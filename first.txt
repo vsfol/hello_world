@@ -1,3 +1,8 @@
+Step1:
 THIS IS MY FIRST FILE
 I CREATED THIS ON LOCAL AND ADD TO THE GIT LIBRARY.
 THE PURPOSE IS TO CHECK WEATHER I AM ABLE TO VIEW THIS FILE ON GIT GUI.
+I commited to master using GUI.
+
+Step 2:
+I have Updated some text and will commit this file to repo using Terminal
