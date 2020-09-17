@@ -6,3 +6,9 @@ I commited to master using GUI.
 
 Step 2:
 I have Updated some text and will commit this file to repo using Terminal
+
+step 3:
+successfullt cloned the git library in new folder and created ailas to clone the directory.
+
+step 4: 
+commit these changes to the git repo.
